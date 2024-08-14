@@ -1,0 +1,26 @@
+{
+  "name": "djones",
+  "version": "1.0.0",
+  "description": "Anagram service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jstest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfbenn/djones.git"
+  },
+  "keywords": [
+    "Anagram"
+  ],
+  "author": "Chris Benn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfbenn/djones/issues"
+  },
+  "homepage": "https://github.com/cfbenn/djones#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "helmet": "^7.1.0"
+  }
+}
