@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Anagram service",
   "main": "index.js",
-  "scripts": {
-    "test": "jstest"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cfbenn/djones.git"
