@@ -4,7 +4,6 @@
   "description": "Anagram service",
   "main": "index.js",
   "scripts": {
-    "test": "jstest"
   },
   "repository": {
     "type": "git",
